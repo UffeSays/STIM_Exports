@@ -8,6 +8,7 @@ SELECT * FROM mdldtap.mdlmdlpf
 --------------------------
 
 -- Old code
+/*
 SELECT MDMDNR,
 	  MDNAMN,
 	  MDFNMR, 
@@ -37,3 +38,4 @@ LEFT OUTER JOIN (SELECT AUMDNR, AULAND FROM mdldtap.mdladupf JOIN mdldtap.mdladr
 LEFT OUTER JOIN (SELECT PNPONR, PNKOMU FROM gemdtap.gempnrpf) komu ON ASPONR = PNPONR
 WHERE MDMDTY = 1 -- Upphovsperson 
 
+*/
