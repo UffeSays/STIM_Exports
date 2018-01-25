@@ -1,6 +1,6 @@
 
 -- GEMDTAP
-select * from GEMDTAP.GERMADO 
+select * from GEMDTAP.GERMADO  -- gemaado
 select * from GEMDTAP.GEMAVOPF -- gemavopf
 select * from GEMDTAP.GEMLNDPF -- gemlndpf
 select * from GEMDTAP.GEMPNRPF -- gempnrpf
