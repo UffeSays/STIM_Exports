@@ -1,5 +1,5 @@
 
--- Välj distkeys och kör - detta är en inkrementell alddning som ska läggas till de redan befintliga raderna i avstämningstabellen datamarts.udd_troy_true_amounts_by_distkey
+-- Välj distkeys och kör - detta är en inkrementell alddning som ska läggas till de redan befintliga raderna i avstämningstabellen datamarts.fTroyTrueAmountsByDistkey
 -- Detta eftersom det tar ett tag att köra SQL:en nedan för många distkeys
 -- Kopiera allt med Copy as SQL Insert Values
 -- Klistra in i SQL Server management studio och byt namn på tabellen till datamarts.udd_troy_true_amounts_by_distkey 
