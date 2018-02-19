@@ -21,4 +21,5 @@ select * from DSTDTAP.DSTWLA where distributionkey in (1169, 1170, 1173, 1174, 1
 select * from DSTDTAP.DSTWOT where distributionkey in (1169, 1170, 1173, 1174, 1175, 1176, 1177)
 select * from DSTDTAP.DSTWRK where distributionkey in (1169, 1170, 1173, 1174, 1175, 1176, 1177)
 
+-- mandate
 select * from wpcdtap.wpcmh
